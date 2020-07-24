@@ -1,0 +1,52 @@
+{
+        "EmpName": "Mohammad Ahmad",
+        "EmpAge": "20",
+        "EmpTele": "0987654521",
+        "EmpPhoto": "https://i.ibb.co/8rNQ9S8/Emp1.jpg"
+    }, {
+        "EmpName": "Ali Mohammad",
+        "EmpAge": "50",
+        "EmpTele": "0988545271",
+        "EmpPhoto": "https://i.ibb.co/gwYrQPQ/Emp2.jpg"
+    }, {
+        "EmpName": "Sami Al-Nather",
+        "EmpAge": "60",
+        "EmpTele": "0123456786",
+        "EmpPhoto": "https://i.ibb.co/TqC8yHz/Emp3.jpg"
+    }, {
+
+        "EmpName": "Ali Abdulateef",
+        "EmpAge": "33",
+        "EmpTele": "01231689786",
+        "EmpPhoto": "https://i.ibb.co/GvHJxy4/Emp4.jpg"
+    }, {
+        "EmpName": "Moaz Mostafa",
+        "EmpAge": "35",
+        "EmpTele": "08875456786",
+        "EmpPhoto": "https://i.ibb.co/3sCjT0k/Emp5.jpg"
+    }, {
+        "EmpName": "Ehsan Al-Ameer",
+        "EmpAge": "40",
+        "EmpTele": "0456756786",
+        "EmpPhoto": "https://i.ibb.co/JHmkcxZ/Emp6.jpg"
+    }, {
+        "EmpName": "Hussien Al-Ali",
+        "EmpAge": "30",
+        "EmpTele": "057763456786",
+        "EmpPhoto": "https://i.ibb.co/RB6XrSq/Emp7.jpg"
+    }, {
+        "EmpName": "Jaber Al-Jaber",
+        "EmpAge": "22",
+        "EmpTele": "0123456786",
+        "EmpPhoto": "https://i.ibb.co/dDwP8B4/Emp8.jpg"
+    }, {
+        "EmpName": "Gamal Mahrous",
+        "EmpAge": "55",
+        "EmpTele": "0021323456786",
+        "EmpPhoto": "https://i.ibb.co/mJc3HsK/A-college-professor-of-physics.jpg"
+    }, {
+        "EmpName": "Gameel Al-Nahdi",
+        "EmpAge": "65",
+        "EmpTele": "059123456786",
+        "EmpPhoto": "https://i.ibb.co/98KXWgM/Emp10.jpg"
+    }
